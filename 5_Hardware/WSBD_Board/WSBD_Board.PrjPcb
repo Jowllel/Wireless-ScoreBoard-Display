@@ -101,20 +101,20 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=SubProject
-Value=Display
+Name=Author
+Value=Joel Schaller
 
 [Parameter2]
-Name=Revision
-Value=1.0
-
-[Parameter3]
 Name=Project
 Value=Wireless ScoreBoard
 
+[Parameter3]
+Name=Revision
+Value=1.0
+
 [Parameter4]
-Name=Author
-Value=Joel Schaller
+Name=SubProject
+Value=Display
 
 [Configuration1]
 Name=Sources
