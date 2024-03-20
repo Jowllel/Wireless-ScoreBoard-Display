@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 08:55:08 On 20.03.2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [WSBD_Board.PrjPcb]
+   Generated File[//d.docs.live.net/fe2074dc24c052ba/Beruflich/TBZ/Projects/Wireless-ScoreBoard-Display/5_Hardware/WSBD_Board/Project Outputs for WSBD_Board/Bill of Materials/Bill of Materials-WSBD_Board.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08:55:18 On 20.03.2024

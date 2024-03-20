@@ -101,20 +101,20 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Author
-Value=Joel Schaller
+Name=SubProject
+Value=Display Board
 
 [Parameter2]
-Name=Project
-Value=Wireless ScoreBoard
-
-[Parameter3]
 Name=Revision
 Value=1.0
 
+[Parameter3]
+Name=Project
+Value=Wireless ScoreBoard
+
 [Parameter4]
-Name=SubProject
-Value=Display
+Name=Author
+Value=Joel Schaller
 
 [Configuration1]
 Name=Sources
@@ -231,22 +231,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=HPM479fdn (HP Color LaserJet Pro M478f-9f)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
