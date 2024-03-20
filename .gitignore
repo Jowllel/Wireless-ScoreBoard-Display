@@ -15,3 +15,6 @@
 /5_Hardware/WSBD_Board/Project Logs for WSBD_Board/*.LOG
 /5_Hardware/WSBD_Board/__Previews/*.SchDocPreview
 /5_Hardware/WSBD_Board/Project Outputs for WSBD_Board/Status Report.Txt
+/5_Hardware/WSBD_FlexBoard/__Previews/Overview.SchDocPreview
+/5_Hardware/WSBD_FlexBoard/*.PrjPcbStructure
+/5_Hardware/WSBD_FlexBoard/History/*.Zip
