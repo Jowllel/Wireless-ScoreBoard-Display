@@ -184,7 +184,7 @@ Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=7086614|ViewY=35433071|LookAtX=15354331|LookAtY=25393700|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=5.82506664466086E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=False|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=D:\OneDrive\Beruflich\TBZ\Projects\Wireless-ScoreBoard-Remote\5_Hardware\WSBR_Board\WSBR_Board.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=D:\OneDrive\Beruflich\TBZ\Projects\Wireless-ScoreBoard-Display\5_Hardware\WSBD_Board\Project Outputs for WSBD_Board\WSBR_Board.pdf
+OutputFilePath2=D:\OneDrive\Beruflich\TBZ\Projects\Wireless-ScoreBoard-Display\5_Hardware\WSBD_FlexBoard\Project Outputs for WSBD_FlexBoard\WSBD_Board.pdf
 ReleaseManaged2=1
 OutputBasePath2=Project Outputs for WSBD_FlexBoard
 OutputPathMedia2=
@@ -192,7 +192,7 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=WSBD_Board.pdf
+OutputFileName2=WSBD_FlexBoard.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
 OutputFileNameSpecial2=
@@ -263,7 +263,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\OneDrive\Beruflich\TBZ\Projects\Wireless-ScoreBoard-Display\5_Hardware\WSBD_Board\Project Outputs for WSBD_Board\WSBR_Board.pdf
+RelativeOutputPath2=D:\OneDrive\Beruflich\TBZ\Projects\Wireless-ScoreBoard-Display\5_Hardware\WSBD_FlexBoard\Project Outputs for WSBD_FlexBoard\WSBD_Board.pdf
 OpenOutputs2=1
 RelativeOutputPath3=D:\OneDrive\Beruflich\TBZ\Projects\Wireless-ScoreBoard-Remote\5_Hardware\WSBR_Board\Project Outputs for WSBR_Board\
 OpenOutputs3=1

@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TALLMOYP
 
 [Document3]
 DocumentPath=WSBD_FlexBoard.OutJob
@@ -101,20 +101,20 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=SubProject
-Value=Display FPC
+Name=Author
+Value=Joel Schaller
 
 [Parameter2]
-Name=Revision
-Value=1.0
-
-[Parameter3]
 Name=Project
 Value=Wireless ScoreBoard
 
+[Parameter3]
+Name=Revision
+Value=1.0
+
 [Parameter4]
-Name=Author
-Value=Joel Schaller
+Name=SubProject
+Value=Display FPC
 
 [Configuration1]
 Name=Sources
@@ -1182,8 +1182,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name Only
 ComponentLibraryIdentifier0=ETHZ Vault
-ComponentDesignItemID0=CMP-02820-1
-ComponentSymbolReference0=CON 4x1 Male
+ComponentDesignItemID0=CMP-03086-1
+ComponentSymbolReference0=LARGE E-PAPER DISPLAY – SINGLE DIGIT 184MM
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1227,11 +1227,6 @@ ParameterName12=Supplier2 Part Number
 ParameterUpdate12=1
 ParameterName13=Value
 ParameterUpdate13=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=M20-8890445R
-ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
