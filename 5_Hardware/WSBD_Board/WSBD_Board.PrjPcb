@@ -105,20 +105,20 @@ DocumentPath=Project Outputs for WSBD_Board\Design Rule Check - WSBD_Board.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Joel Schaller
+Name=SubProject
+Value=Display Board
 
 [Parameter2]
+Name=Revision
+Value=1.1
+
+[Parameter3]
 Name=Project
 Value=Wireless ScoreBoard
 
-[Parameter3]
-Name=Revision
-Value=1.0
-
 [Parameter4]
-Name=SubProject
-Value=Display Board
+Name=Author
+Value=Joel Schaller
 
 [Configuration1]
 Name=Sources
